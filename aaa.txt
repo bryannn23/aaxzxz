@@ -6,4 +6,8 @@ Add2
 minus
 
 
+
 multiply
+
+Divide
+
